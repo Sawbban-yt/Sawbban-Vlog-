@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Info -->
+    <string name="app_name">मीडियाफ्लो 2026</string>
+    <string name="app_description">AI-संचालित मीडिया प्लेयर स्मार्ट प्लेलिस्ट के साथ</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_library">लाइब्रेरी</string>
+    <string name="nav_videos">वीडियो</string>
+    <string name="nav_audios">ऑडियो</string>
+    <string name="nav_playlists">प्लेलिस्ट</string>
+
+    <!-- Player Controls -->
+    <string name="play">चलाएँ</string>
+    <string name="pause">रोकें</string>
+    <string name="next">अगला</string>
+    <string name="previous">पिछला</string>
+    <string name="shuffle">शफल</string>
+    <string name="repeat_none">दोहराएँ नहीं</string>
+    <string name="repeat_one">एक बार दोहराएँ</string>
+    <string name="repeat_all">सभी दोहराएँ</string>
+    <string name="fullscreen">पूर्ण स्क्रीन</string>
+    <string name="pip_mode">पिक्चर इन पिक्चर</string>
+    <string name="speed">गति</string>
+
+    <!-- Playlist Actions -->
+    <string name="create_playlist">प्लेलिस्ट बनाएँ</string>
+    <string name="add_to_playlist">प्लेलिस्ट में जोड़ें</string>
+    <string name="remove_from_playlist">प्लेलिस्ट से हटाएँ</string>
+    <string name="delete_playlist">प्लेलिस्ट हटाएँ</string>
+    <string name="playlist_name">प्लेलिस्ट का नाम</string>
+    <string name="empty_playlist">प्लेलिस्ट खाली है</string>
+
+    <!-- Smart Playlist -->
+    <string name="smart_ai_mix">स्मार्ट AI मिक्स</string>
+    <string name="generating_smart_playlist">AI प्लेल��स्ट बनाई जा रही है...</string>
+    <string name="smart_playlist_description">आपके सुनने की हिस्ट्री के आधार पर</string>
+
+    <!-- States -->
+    <string name="loading">लोड हो रहा है...</string>
+    <string name="no_media_found">कोई मीडिया नहीं मिला</string>
+    <string name="error_loading_media">मीडिया लोड करने में त्रुटि</string>
+    <string name="grant_permissions">कृपया मीडिया अनुमतियाँ दें</string>
+
+    <!-- Media Info -->
+    <string name="duration">अवधि</string>
+    <string name="file_size">फाइल आकार</string>
+    <string name="recently_played">हाल ही में चलाया गया</string>
+    <string name="all_items">सभी आइटम</string>
+
+    <!-- Dialogs -->
+    <string name="cancel">रद्द करें</string>
+    <string name="ok">ठीक है</string>
+    <string name="save">सहेजें</string>
+    <string name="delete">हटाएँ</string>
+    <string name="confirm_delete">हटाने की पुष्टि करें</string>
+    <string name="delete_confirmation">क्या आप सुनिश्चित हैं?</string>
+</resources>
